@@ -30,7 +30,7 @@ apikey = "675031xxxxxxxxxxxx"
 sender = "SEDEMO"
 
 sms=SpringedgeSms.new(apikey,sender)
-sms.send("9199xxxxxxxx", "Hi this is a test message");
+sms.send("9199xxxxxxxx", "Hello, This is a test message from spring edge");
 
 Success Response:
 
